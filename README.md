@@ -122,7 +122,7 @@ Mongoose Resources
 
 Unified Modeling Language
 
-[Unified Modeling Language](https://www.uml.org/)
+- [Unified Modeling Language](https://www.uml.org/)
 
 - [StackExchange: Truly useful UML diagrams](https://softwareengineering.stackexchange.com/questions/152997/truly-useful-uml-diagrams)
 
@@ -142,14 +142,14 @@ Documenting REST API
 
 Web Architecture
 
-[W3C: Web Architecture](https://www.w3.org/standards/webarch/)
+- [W3C: Web Architecture](https://www.w3.org/standards/webarch/)
 
-[W3C: WEB DESIGN AND APPLICATIONS](https://www.w3.org/standards/webdesign/)
+- [W3C: WEB DESIGN AND APPLICATIONS](https://www.w3.org/standards/webdesign/)
 
-[Mozilla: Web app fundamentals](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+- [Mozilla: Web app fundamentals](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-[The new Web application architectures and their impacts for enterprises – Part 1](https://blog.octo.com/en/new-web-application-architectures-and-impacts-for-enterprises-1/)
+- [The new Web application architectures and their impacts for enterprises – Part 1](https://blog.octo.com/en/new-web-application-architectures-and-impacts-for-enterprises-1/)
 
-[The new Web application architectures and their impacts for enterprises – Part 2](https://blog.octo.com/en/new-web-application-architectures-and-impacts-for-enterprises-2/)
+- [The new Web application architectures and their impacts for enterprises – Part 2](https://blog.octo.com/en/new-web-application-architectures-and-impacts-for-enterprises-2/)
 
-[Next Gen Web Architecture for the Cloud Era](https://resources.sei.cmu.edu/library/)
+- [Next Gen Web Architecture for the Cloud Era](https://resources.sei.cmu.edu/library/)
