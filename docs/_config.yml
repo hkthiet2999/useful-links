@@ -21,10 +21,11 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://github.com/smoothkt4951/useful-links'
+# url: 'https://github.com/smoothkt4951/useful-links'
+url: https://kt-links.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: kt-links.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: ''
 title: 'Links Storage'
-# description: 'This is my new website'
 permalink: pretty
 logo: "https://avatars.githubusercontent.com/u/54468119?s=400&u=1942ec86f2a73174ddd4577a49bd8f587d13461a&v=4"
 
