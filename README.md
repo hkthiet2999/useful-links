@@ -170,19 +170,19 @@ Web Architecture
 
 Express Resources
 
-- [cookie-parser]()(https://github.com/expressjs/cookie-parser)
+- [cookie-parser](https://github.com/expressjs/cookie-parser)
 
-- [express-session]()(https://github.com/expressjs/session)
+- [express-session](https://github.com/expressjs/session)
 
-- [session-file-store]()(https://www.npmjs.com/package/session-file-store)
+- [session-file-store](https://www.npmjs.com/package/session-file-store)
 
 Other Resources
 
-- [HTTP Cookies]()(https://en.wikipedia.org/wiki/HTTP_cookie)
+- [HTTP Cookies](https://en.wikipedia.org/wiki/HTTP_cookie)
 
-- [Sessions in Express.js]()(http://expressjs-book.com/index.html%3Fp=128.html)
+- [Sessions in Express.js](http://expressjs-book.com/index.html%3Fp=128.html)
 
-- [Express Session Management]()(https://javabeat.net/expressjs-session-management/)
+- [Express Session Management](https://javabeat.net/expressjs-session-management/)
 
 ## User Authentication with Passport
 
@@ -357,5 +357,4 @@ Loopback Resources
 
 - [Loopback SDK Builder](https://github.com/mean-expert-official/loopback-sdk-builder)
 
-##
 
