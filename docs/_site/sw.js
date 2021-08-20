@@ -1,8 +1,8 @@
-const version = '20210820092101';
+const version = '20210820110841';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2018/08/22/hello-world/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","https://avatars.githubusercontent.com/u/54468119?s=400&u=1942ec86f2a73174ddd4577a49bd8f587d13461a&v=4", "//assets/default-offline-image.png", "//assets/scripts/fetch.js"
+  return ["/general/2018/08/22/hello-world/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","https://avatars.githubusercontent.com/u/54468119?s=400&u=1942ec86f2a73174ddd4577a49bd8f587d13461a&v=4", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
@@ -60,7 +60,7 @@ self.addEventListener("fetch", event => {
 
   if (request.url.match(/\.(jpe?g|png|gif|svg)$/)) {
     // If url requested is an image and isn't cached, return default offline image
-    offlineAsset = "//assets/default-offline-image.png";
+    offlineAsset = "/assets/default-offline-image.png";
   }
 
   // For all urls request image from network, then fallback to cache, then fallback to offline page
