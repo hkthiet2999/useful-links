@@ -18,8 +18,8 @@
 - [RequireJS](https://requirejs.org/)
 
 ### Node and HTTP
-HTTP Resources
 
+HTTP Resources
 
 - [Node HTTP](https://nodejs.org/api/http.html)
 
@@ -38,6 +38,7 @@ Other Resources
 - [Postman](https://www.postman.com/)
 
 ### Express
+
 Express Resources
 
 - [ExpressJS](http://expressjs.com/)
@@ -184,6 +185,7 @@ Other Resources
 ### User Authentication with Passport
 
 Passport Resources
+
 - [Passport](http://passportjs.org/)
 
 - [Passport Documentation](http://passportjs.org/docs)
@@ -252,9 +254,11 @@ Other Resources
 ### Uploading Files
 
 Node Resources
+
 - [Multer](https://github.com/expressjs/multer)
 
 Other Resources
+
 - [Form-based File Upload in HTML (IETF RFC 1867)](https://datatracker.ietf.org/doc/html/rfc1867
 
 - [HTML5 A vocabulary and associated APIs for HTML and XHTML (W3C Recommendation) (multipart/form-data)](https://html.spec.whatwg.org/)
@@ -267,6 +271,7 @@ Other Resources
 
 
 ### Cross-Origin Resource Sharing
+
 CORS Resources
 
 - [CORS NPM module](https://www.npmjs.com/package/cors)
@@ -292,6 +297,7 @@ Other Resources
 - [CORS In Action](http://arunranga.com/examples/access-control/)
 
 ### OAuth and User Authentication
+
 OAuth Resources
 
 [OAuth 2.0](https://oauth.net/2/)
@@ -305,6 +311,7 @@ Facebook Resources
 [Facebook for Developer](https://developers.facebook.com/apps/)
 
 Passport Resources
+
 [passport-facebook-token](https://github.com/drudge/passport-facebook-token)
 
 Other Resources
@@ -334,6 +341,7 @@ Firebase Resources
 - [AngularFire2 NPM Module](https://github.com/angular/angularfire)
 
 Other Resources
+
 - [Mobile Backend as a Service (Wikipedia)](https://en.wikipedia.org/wiki/Mobile_backend_as_a_service)
 
 - [Backend as a Service](https://baas.apievangelist.com/)
