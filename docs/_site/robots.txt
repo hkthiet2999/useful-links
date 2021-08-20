@@ -1,1 +1,1 @@
-Sitemap: https://smoothkt4951.github.io/useful-links//useful-links/sitemap.xml
+Sitemap: /sitemap.xml
