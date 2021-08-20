@@ -21,7 +21,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-# url: 'https://github.com/smoothkt4951/useful-links'
+url: 'https://github.com/smoothkt4951/useful-links'
 # url: https://smoothkt4951.github.io/useful-links/  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: ''
 title: 'Links Storage'
