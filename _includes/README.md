@@ -1,10 +1,4 @@
-# GitHub Pages
-
-https://smoothkt4951.github.io/useful-links/
-
-# Content as .md
-
-## Node and NPM
+### Node and NPM
 - [Nodejs.org](https://nodejs.org/en/)
 
 - [Npmjs.com](https://www.npmjs.com/)
@@ -13,20 +7,19 @@ https://smoothkt4951.github.io/useful-links/
 
 - [NPM Documentation](https://docs.npmjs.com/)
 
-## Node Modules
+### Node Modules
 
 - [Node Modules](https://nodejs.org/api/modules.html)
 
-- [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
+- [The Node.js Event Loop, Timers, and process.nextTick](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 
 - [CommonJS](http://www.commonjs.org/)
 
 - [RequireJS](https://requirejs.org/)
 
-## Node and HTTP
+### Node and HTTP
 
 HTTP Resources
-
 
 - [Node HTTP](https://nodejs.org/api/http.html)
 
@@ -44,7 +37,7 @@ Other Resources
 
 - [Postman](https://www.postman.com/)
 
-## Express
+### Express
 
 Express Resources
 
@@ -66,7 +59,7 @@ Other Resources
 
 - [Express Generator](http://expressjs.com/en/starter/generator.html)
 
-## MongoDB
+### MongoDB
 
 - [MongoDB](http://www.mongodb.org/)
 
@@ -78,7 +71,7 @@ Other Resources
 
 - [The mongo Shell](https://docs.mongodb.com/manual/reference/program/mongo/)
 
-## Node and MongoDB
+### Node and MongoDB
 
 MongoDB Resources
 
@@ -99,7 +92,7 @@ Other Resources
 
 - [The Great Escape from Callback Hell](https://jstutorial.medium.com/the-great-escape-from-callback-hell-3006fa2c82e)
 
-## Mongoose ODM
+### Mongoose ODM
 
 Mongoose Resources
 
@@ -119,7 +112,7 @@ Mongoose Resources
 
 - [Mongoose: Referencing schema in properties or arrays](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
 
-## REST API with Express, MongoDB and Mongoose
+### REST API with Express, MongoDB and Mongoose
 
 - [Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 
@@ -127,7 +120,7 @@ Mongoose Resources
 
 - [CREATING A SIMPLE RESTFUL WEB APP WITH NODE.JS, EXPRESS, AND MONGODB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
 
-## Architecture Design and Software Structure
+### Architecture Design and Software Structure
 
 Unified Modeling Language
 
@@ -164,14 +157,14 @@ Web Architecture
 
 - [Next Gen Web Architecture for the Cloud Era](https://resources.sei.cmu.edu/library/)
 
-## Basic Authentication
+### Basic Authentication
 
 - [Basic acccess authentication (Wikipedia)](https://en.wikipedia.org/wiki/Basic_access_authentication)
 
 - [Basic Access Authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
 
 
-## Cookies, Express Sessions
+### Cookies, Express Sessions
 
 Express Resources
 
@@ -189,7 +182,7 @@ Other Resources
 
 - [Express Session Management](https://javabeat.net/expressjs-session-management/)
 
-## User Authentication with Passport
+### User Authentication with Passport
 
 Passport Resources
 
@@ -204,7 +197,6 @@ Passport Resources
 - [Passport-jwt](https://github.com/mikenicholson/passport-jwt)
 
 JSON Web Tokens Resources
-
 - [JSON Web Tokens](https://jwt.io/)
 
 - [RFC 7519 (JSON Web Tokens)](https://datatracker.ietf.org/doc/html/rfc7519)
@@ -230,7 +222,7 @@ Other Resources
 - [Express, Passport and JSON Web Token (jwt) Authentication for Beginners](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/)
 
 
-## HTTPS and Secure Communication
+### HTTPS and Secure Communication
 
 HTTPS
 - [HTTPS (Wikipedia)](https://en.wikipedia.org/wiki/HTTPS)
@@ -259,7 +251,7 @@ Other Resources
 
 - [How does HTTPS actually work?](https://robertheaton.com/2014/03/27/how-does-https-actually-work/)
 
-## Uploading Files
+### Uploading Files
 
 Node Resources
 
@@ -278,7 +270,7 @@ Other Resources
 - [Node multipart/form-data Explained](http://derpturkey.com/node-multipart-form-data-explained/)
 
 
-## Cross-Origin Resource Sharing
+### Cross-Origin Resource Sharing
 
 CORS Resources
 
@@ -304,7 +296,7 @@ Other Resources
 
 - [CORS In Action](http://arunranga.com/examples/access-control/)
 
-## OAuth and User Authentication
+### OAuth and User Authentication
 
 OAuth Resources
 
@@ -332,9 +324,9 @@ Other Resources
 
 [The OAuth Bible](https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md)
 
-## Backend as a Service (BaaS)
+### Backend as a Service (BaaS)
 
-- [Angular Application]()(https://github.com/jmuppala/conFusion-Angular4-Firebase.git)
+- [Angular Application](https://github.com/jmuppala/conFusion-Angular4-Firebase.git)
 
 Firebase Resources
 
@@ -369,5 +361,6 @@ Loopback Resources
 - [Loopback Timestamp Mixin (loopback-ds-timestamp-mixin)](https://www.npmjs.com/package/loopback-ds-timestamp-mixin)
 
 - [Loopback SDK Builder](https://github.com/mean-expert-official/loopback-sdk-builder)
+
 
 
