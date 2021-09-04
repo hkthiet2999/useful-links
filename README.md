@@ -267,7 +267,7 @@ Node Resources
 
 Other Resources
 
-- [Form-based File Upload in HTML (IETF RFC 1867)](https://datatracker.ietf.org/doc/html/rfc1867
+- [Form-based File Upload in HTML (IETF RFC 1867)](https://datatracker.ietf.org/doc/html/rfc1867)
 
 - [HTML5 A vocabulary and associated APIs for HTML and XHTML (W3C Recommendation) (multipart/form-data)](https://html.spec.whatwg.org/)
 
@@ -334,7 +334,7 @@ Other Resources
 
 ## Backend as a Service (BaaS)
 
-- [Angular Application]()(https://github.com/jmuppala/conFusion-Angular4-Firebase.git)
+- [Angular Application](https://github.com/jmuppala/conFusion-Angular4-Firebase.git)
 
 Firebase Resources
 
@@ -371,3 +371,16 @@ Loopback Resources
 - [Loopback SDK Builder](https://github.com/mean-expert-official/loopback-sdk-builder)
 
 
+## Richardson Maturity Model
+
+- [Richardson Maturity Model - steps toward the glory of REST](https://martinfowler.com/articles/richardsonMaturityModel.html)
+
+- [A Maturity Model for Semantic RESTful Web APIs](https://www.researchgate.net/publication/281287283_A_Maturity_Model_for_Semantic_RESTful_Web_APIs)
+
+- [4 Maturity Levels of REST API Design](https://blog.restcase.com/4-maturity-levels-of-rest-api-design/)
+
+- [5 Basic REST API Design Guidelines](https://blog.restcase.com/5-basic-rest-api-design-guidelines/)
+
+- [7 Rules for REST API URI Design](https://blog.restcase.com/7-rules-for-rest-api-uri-design/)
+
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
